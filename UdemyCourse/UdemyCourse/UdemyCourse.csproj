@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="ContainerClass.cs" />
+    <None Include="FluentBuilder.cs" />
+    <None Include="HtmlElement.cs" />
+    <None Include="FacetedBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
