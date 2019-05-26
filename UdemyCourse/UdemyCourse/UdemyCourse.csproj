@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ContainerClass.cs" />
+    <None Include="01Solution.cs" />
+    <None Include="01Builder.cs" />
     <None Include="FluentBuilder.cs" />
     <None Include="HtmlElement.cs" />
     <None Include="FacetedBuilder.cs" />
+    <None Include="02Factory.cs" />
+    <Compile Include="03Prototype.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
