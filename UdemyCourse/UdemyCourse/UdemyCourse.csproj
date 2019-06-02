@@ -65,7 +65,10 @@
     <None Include="LineRectangleAdapter.cs" />
     <None Include="NeuralNetworks.cs" />
     <None Include="09Facade.cs" />
-    <Compile Include="10Flyweight.cs" />
+    <None Include="10Flyweight.cs" />
+    <None Include="11Proxy.cs" />
+    <Compile Include="11ChainOfEvents.cs" />
+    <None Include="BrokerChain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="packages.config" />
   </ItemGroup>
