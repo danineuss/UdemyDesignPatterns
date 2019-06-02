@@ -55,12 +55,17 @@
     <None Include="HtmlElement.cs" />
     <None Include="FacetedBuilder.cs" />
     <None Include="02Factory.cs" />
-    <Compile Include="03Prototype.cs" />
+    <None Include="03Prototype.cs" />
     <None Include="04Singleton.cs" />
     <None Include="05Adapter.cs" />
-    <Compile Include="06Bridge.cs" />
+    <None Include="06Bridge.cs" />
     <None Include="CirlceRendererBridge.cs" />
-    <Compile Include="LineRectangleAdapter.cs" />
+    <None Include="07Composite.cs" />
+    <None Include="08Decorator.cs" />
+    <None Include="LineRectangleAdapter.cs" />
+    <None Include="NeuralNetworks.cs" />
+    <None Include="09Facade.cs" />
+    <Compile Include="10Flyweight.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="packages.config" />
   </ItemGroup>
